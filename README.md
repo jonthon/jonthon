@@ -1,6 +1,6 @@
   Hi, 
 
-- I’m Johnson Ngao. I'm a System, Network, and 
+- I'm a System, Network, and 
   Data processing developer with Python expertise.
 - I’m mostly interested in Python programming. 
 - I’m currently learning Blockchain Technology.
