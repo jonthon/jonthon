@@ -7,5 +7,5 @@
 - I’m looking to collaborate on System, Network,
   and Blockchain programming projects
 - You can reach me at:
-  -    Email: johnson_ngao@outlook.com
+  -    Email: developerjon@outlook.com
   - LinkedIn: https://www.linkedin.com/in/johnson-ngao
