@@ -12,4 +12,5 @@ I'm currently learning Machine Learning and Blockchain.
 I'm well determined in my expertise and maintain great communication, organizational, time management, decision making, and prioritization skills.
   
 email: developerjon@outlook.com
+
 LinkedIn: https://www.linkedin.com/in/johnson-ngao
