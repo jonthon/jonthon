@@ -13,4 +13,6 @@ I'm well determined in my expertise and maintain great communication, organizati
 
 LinkedIn: https://www.linkedin.com/in/johnson-ngao
 
+Github: https://github.com/jonthon
+
 email: developerjon@outlook.com
