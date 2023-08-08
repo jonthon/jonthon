@@ -14,4 +14,4 @@ LinkedIn: https://www.linkedin.com/in/johnson-ngao
 
 Github: https://github.com/jonthon
 
-email: developerjon@outlook.com
+Email: developerjon@outlook.com
