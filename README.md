@@ -1,13 +1,12 @@
- 
 Hi,
+ 
+I'm an entry Data Scientist and Software Developer with Python expertise.
 
-I'm an entry System and Data analysis developer with Python expertise.
+I fetch, prepare, analyse, visualize, and perform automations on various kinds of data using Python interfaces for Mathematics (numpy), Data Analysis (pandas), Statistics (statsmodels), and Machine Learning (scikit-learn, tensor flow, and keras).
 
-I program automation, filesystems, processes, user accounts, device drive operations, software installation scripts, and networking.
+On the other hand, I do System administration, GUI programming (with tkinter), and some Web development (with django and/or cgi scripting).
 
-I can perform analysis on numerous kinds of data. I can fetch, scrape, clean, filter, format, analyse, and visualize data to and from various formats: html, xml, json, bson, network sockets, and more.
-
-I'm currently learning Machine Learning and Blockchain.
+I'm mostly a self taught software developer and currently learning Machine Learning and Cryptography.
 
 I'm well determined in my expertise and maintain great communication, organizational, time management, decision making, and prioritization skills.
 
